@@ -2,7 +2,7 @@
 Honors Project where I am required to create an Agile plan with Github and tackle the roles of: Product Owner, Scrum Master, and the Dev Team.
 
 Scenario:
-In this scenario, you will play the roles of a product owner, scrum master, and developer. As a product owner, you will create stories for your team and organize these stories into a product backlog. As a scrum master, you will create a sprint milestone and ensure that a subset of the stories is ready to be placed in a sprint plan. As a developer, you will create the sprint backlog and execute some of the stories by moving them across the kanban board in a simulated sprint.
+You will play the roles of a product owner, scrum master, and developer. As a product owner, you will create stories for your team and organize these stories into a product backlog. As a scrum master, you will create a sprint milestone and ensure that a subset of the stories is ready to be placed in a sprint plan. As a developer, you will create the sprint backlog and execute some of the stories by moving them across the kanban board in a simulated sprint.
 
 Your team has been tasked with developing the backend product catalog for an e-commerce website. Stakeholders require the ability to create, retrieve, update, and delete products from the catalog, along with features like indicating product likes and hosting on a cloud environment with automated deployments.
 
